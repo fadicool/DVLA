@@ -28,7 +28,7 @@ Write a selenium/cucumber framework to do the following:
 
 Key Requirements: 
 
-•	Write appropriate Junit tests for your project
+•	Write appropriate Junit tests
 •	Use of design patterns where appropriate.
 •	Contain clear and precise logging/comments. 
 •	Provide screenshot of output when you run Part 2 test locally.
