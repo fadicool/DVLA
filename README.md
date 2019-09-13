@@ -1,7 +1,7 @@
 # DVLA Project
-IDENTITY E2E – Test 4 - Java Exercise PART-1
+IDENTITY E2E – Test 4 - Java Exercise
 
-Part 1: LETS GIVE IT ANOTHER TRY
+Part 1: LETS GIVE IT ANOTHER TRY 101
 
 Write a Service layer bean to do the following:
 
